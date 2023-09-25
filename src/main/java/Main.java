@@ -15,5 +15,6 @@ public class Main {
 
         System.out.println("Hello there!");
         System.out.println("General Kenobi!");
+        System.out.println("Hey");
     }
 }
