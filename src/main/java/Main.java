@@ -3,5 +3,8 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Mazlums first commit and push 2");
         System.out.println("Joels second comit and push");
+        System.out.println("CRAAASH");
+        System.out.println("Error 404");
     }
+
 }
